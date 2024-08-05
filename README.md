@@ -1,7 +1,6 @@
-[![MasterHead](https://img.pikbest.com/backgrounds/20200613/blue-mobile-phone-scan-code-payment-technology-banner-background_2756435.jpg!sw800)
 <h1 align="center">Hi 👋, I'm M M Nandesh</h1>
 <h3 align="center">Third Year Student | Tech passionate | Aspiring Developer</h3>
-<img img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif"/>
+<img img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif"/>
 
 - 🔭 I’m currently working on [Jango Food App](https://github.com/NandeshMM/Jango_food_app_using_react_native)
 
