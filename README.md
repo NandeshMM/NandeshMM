@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fcoding&psig=AOvVaw0q7g_ShLtt1vy2Esg3v8AG&ust=1722953907469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjd9M-F3ocDFQAAAAAdAAAAABAh)](https://NandeshMM.io)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20211009/pngtree-matrix-code-abstract-programming-background-image_908363.png)](https://NandeshMM.io)
 <h1 align="center">Hi 👋, I'm M M Nandesh</h1>
 <h3 align="center">Third Year Student | Tech passionate | Aspiring Developer</h3>
-<img img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F106aa0f37f016eda7ec65de5acb90471&psig=AOvVaw3iYrgdebwiT7bF5Ae_jEdq&ust=1722953240681000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCPiDo5CD3ocDFQAAAAAdAAAAABCyAQ"/>
+<img img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif"/>
 
 - 🔭 I’m currently working on [Jango Food App](https://github.com/NandeshMM/Jango_food_app_using_react_native)
 
