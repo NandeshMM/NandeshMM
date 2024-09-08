@@ -2,7 +2,7 @@
 <h3 align="center">Third Year Student | Tech passionate | Aspiring Developer</h3>
 <img img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/42/36/d0/4236d00b6df31c5c1dab3566fa61ff3c.gif"/>
 
-- 🔭 I’m currently working on [PartTimeMatch-New-Version-with-update](https://github.com/NandeshMM/PartTimeMatch-New-Version-with-Update)
+- 🔭 I’m currently working on [PartTimeMatch-New-Version-with-update](https://github.com/NandeshMM/PartTimeMatch-New-Version-with-backend)
 
 - 🌱 I’m currently learning **React JS, React Native, TensorFlow, Keras**
 
